@@ -76,7 +76,7 @@ YOUTUBE = [
 RSS = [
   '3d-designbolts/RSS.png',
   'black-gloss-graphics-vibe/rss-64px.png',
-  'classic-3d-graphics-vibe/rss-64px.png',
+  'classic-3d-graphics-vibe/rss-feed-64px.png',
   'elegantthemes/rss.png',
   'hand-drawn-theg-force/RSS/32x32.png',
   'hand-drawn-theg-force/RSS/64x64.png',
@@ -91,7 +91,7 @@ RSS = [
 ICONS = {
   'facebook': FACEBOOK,
   'twitter': TWITTER,
-  'google_plus': GOOGLE_PLUS,
+  'googleplus': GOOGLE_PLUS,
   'youtube': YOUTUBE,
   'rss': RSS,
   'linkedin': LINKEDIN,

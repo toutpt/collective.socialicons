@@ -7,4 +7,29 @@
       directory="icons"
       name="collective.socialicons"/>
 
+  <utility
+    component=".vocabulary.FacebookIcons"
+    name="collective.socialicons.facebook"
+    />
+  <utility
+    component=".vocabulary.TwitterIcons"
+    name="collective.socialicons.twitter"
+    />
+  <utility
+    component=".vocabulary.GooglePlusIcons"
+    name="collective.socialicons.googleplus"
+    />
+  <utility
+    component=".vocabulary.YoutubeIcons"
+    name="collective.socialicons.youtube"
+    />
+  <utility
+    component=".vocabulary.LinkedinIcons"
+    name="collective.socialicons.linkedin"
+    />
+  <utility
+    component=".vocabulary.RSSIcons"
+    name="collective.socialicons.rss"
+    />
+
 </configure>
