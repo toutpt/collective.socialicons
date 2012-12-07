@@ -5,13 +5,10 @@ This addon provide differents sets of social media icons.
 It provides also python data structure to get path of each icons.
 ::
 
-    {'3d-icons-designbolts':
-      {'facebook':
-        {'64':'64/facebook.png', '32': '32/facebook'},
-        ...
-       'twitter':
-       ..
-      },
+    from collective.socialicons import ICONS, FACEBOOK
+    print [path for path in ICONS['facebook']]
+
+Zope browser resources: ++resource++collective.socialicons
 
 Provided icons
 ==============
