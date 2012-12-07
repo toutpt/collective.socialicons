@@ -1,7 +1,17 @@
 Introduction
 ============
 
-This addon provide many kind of icons for social networks.
+This addon provide differents sets of social media icons.
+It provides also python data structure to get path of each icons.
+::
+
+    {'3d-icons-designbolts':
+      {'facebook':
+        {'64':'64/facebook.png', '32': '32/facebook'},
+        ...
+       'twitter':
+       ..
+      },
 
 Provided icons
 ==============
@@ -38,13 +48,13 @@ round-brainleaf
 .. |round-brainleaf| image:: http://icons.iconarchive.com/icons/brainleaf/round-social/icons-390.jpg
 .. _round-brainleaf: http://www.iconarchive.com/show/round-social-icons-by-brainleaf.html
 
-elegantmedia
+elegantthemes
 ------------
 
-|elegantmedia|_
+|elegantthemes|_
 
-.. |elegantmedia| image:: http://www.elegantthemes.com/blog/wp-content/uploads/2010/04/full-set1.jpg
-.. _elegantmedia: http://www.elegantthemes.com/blog/resources/free-social-media-icon-set
+.. |elegantthemes| image:: http://www.elegantthemes.com/blog/wp-content/uploads/2010/04/full-set1.jpg
+.. elegantthemes: http://www.elegantthemes.com/blog/resources/free-social-media-icon-set
 
 hand-drawn-theg-force
 ---------------------
@@ -62,19 +72,29 @@ simple-rounded-graphics-vibe
 .. |simple-rounded-graphics-vibe| image:: http://icons.iconarchive.com/icons/graphics-vibe/simple-rounded-social/icons-390.jpg
 .. _simple-rounded-graphics-vibe: http://www.iconarchive.com/show/simple-rounded-social-icons-by-graphics-vibe.html
 
+komodomedia
+-----------
 
-|social_networking_iconpack|_
+|komodomedia|_
 
-.. |social_networking_iconpack| image:: 
-.. _social_networking_iconpack: 
+.. |komodomedia| image:: http://d2dnrmagaqciul.cloudfront.net/wp-content/uploads/2009/06/social_network_icons_blog_banner.png
+.. _komodomedia: http://www.komodomedia.com/blog/2009/06/social-network-icon-pack/
 
-windows8-metro-style-graphics-vibe
-----------------------------------
+windows8-metro-graphics-vibe
+----------------------------
 
-|windows8-metro-style-graphics-vibe|_
+|windows8-metro-graphics-vibe|_
 
-..|windows8-metro-style-graphics-vibe| image:: http://icons.iconarchive.com/icons/graphics-vibe/metro-style-social/icons-390.jpg
-.. _windows8-metro-style-graphics-vibe: http://www.iconarchive.com/show/metro-style-social-icons-by-graphics-vibe.html
+..|windows8-metro-graphics-vibe| image:: http://icons.iconarchive.com/icons/graphics-vibe/metro-style-social/icons-390.jpg
+.. _windows8-metro-graphics-vibe: http://www.iconarchive.com/show/metro-style-social-icons-by-graphics-vibe.html
+
+gplus-boldperspective
+---------------------
+
+|gplus-boldperspective|_
+
+.. |gplus-boldperspective| image:: http://boldperspective.com/wp-content/uploads/2011/07/google-plus-icon.png
+.. _gplus-boldperspective: http://boldperspective.com/2011/free-google-plus-icon-vector/
 
 
 Credits
