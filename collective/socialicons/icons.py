@@ -1,6 +1,6 @@
 
 FACEBOOK = [
-  '3d-icons-designbolts/facebook.png',
+  '3d-designbolts/facebook.png',
   'black-gloss-graphics-vibe/facebook-64px.png',
   'classic-3d-graphics-vibe/facebook-64px.png',
   'elegantthemes/facebook.png',
@@ -15,7 +15,7 @@ FACEBOOK = [
 ]
 
 TWITTER = [
-  '3d-icons-designbolts/twitter.png',
+  '3d-designbolts/twitter.png',
   'black-gloss-graphics-vibe/twitter-64px.png',
   'classic-3d-graphics-vibe/twitter-64px.png',
   'elegantthemes/twitter.png',
@@ -30,7 +30,7 @@ TWITTER = [
 ]
 
 GOOGLE_PLUS = [
-  '3d-icons-designbolts/Google+.png',
+  '3d-designbolts/Google+.png',
   'black-gloss-graphics-vibe/google-64px.png',
   'classic-3d-graphics-vibe/google-64px.png',
   'komodomedia/google_plus_16.png',
@@ -43,7 +43,7 @@ GOOGLE_PLUS = [
 ]
 
 LINKEDIN = [
-  '3d-icons-designbolts/Linkedin.png',
+  '3d-designbolts/Linkedin.png',
   'black-gloss-graphics-vibe/linkedin-64px.png',
   'classic-3d-graphics-vibe/linkedin-64px.png',
   'elegantthemes/linkedin.png',
@@ -58,7 +58,7 @@ LINKEDIN = [
 ]
 
 YOUTUBE = [
-  '3d-icons-designbolts/YouTube.png',
+  '3d-designbolts/YouTube.png',
   'black-gloss-graphics-vibe/youtube-64px.png',
   'classic-3d-graphics-vibe/youtube-64px.png',
   'elegantthemes/youtube.png',
@@ -74,7 +74,7 @@ YOUTUBE = [
 
 
 RSS = [
-  '3d-icons-designbolts/RSS.png',
+  '3d-designbolts/RSS.png',
   'black-gloss-graphics-vibe/rss-64px.png',
   'classic-3d-graphics-vibe/rss-64px.png',
   'elegantthemes/rss.png',

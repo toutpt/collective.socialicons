@@ -13,13 +13,13 @@ Zope browser resources: ++resource++collective.socialicons
 Provided icons
 ==============
 
-3d-icons-designbolts
---------------------
+3d-designbolts
+--------------
 
-|3d-icons-designbolts|_
+|3d-designbolts|_
 
-.. |3d-icons-designbolts| image:: http://icons.iconarchive.com/icons/designbolts/3d-social/icons-390.jpg
-.. _3d-icons-designbolts: http://www.iconarchive.com/show/3d-social-icons-by-designbolts.html
+.. |3d-designbolts| image:: http://icons.iconarchive.com/icons/designbolts/3d-social/icons-390.jpg
+.. _3d-designbolts: http://www.iconarchive.com/show/3d-social-icons-by-designbolts.html
 
 black-gloss-graphics-vibe
 -------------------------
