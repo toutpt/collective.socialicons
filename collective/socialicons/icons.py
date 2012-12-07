@@ -87,3 +87,12 @@ RSS = [
   'simple-rounded-graphics-vibe/rss-feed-64px.png',
   'windows8-metro-graphics-vibe/rss-64px.png',
 ]
+
+ICONS = {
+  'facebook': FACEBOOK,
+  'twitter': TWITTER,
+  'google_plus': GOOGLE_PLUS,
+  'youtube': YOUTUBE,
+  'rss': RSS,
+  'linkedin': LINKEDIN,
+}
